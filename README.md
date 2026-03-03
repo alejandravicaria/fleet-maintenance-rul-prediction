@@ -70,9 +70,6 @@ models, consistent with recent literature on gradient boosting for predictive ma
 ### Sensor Degradation Trends vs RUL
 ![Sensor Trends](images/sensor_trends.png)
 
-### Model Comparison
-![Model Comparison](images/model_comparison.png)
-
 ### SHAP Summary Plot
 ![SHAP Summary](images/shap_summary.png)
 
